@@ -1,0 +1,5 @@
+/bin
+*.csv
+android/*
+ios/*
+lib-unused-gdata
